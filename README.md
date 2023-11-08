@@ -1,7 +1,7 @@
-- 👋 I’m Sergio Galarza, a full time data analyst who love tecnologies and matemátics. I'm working in imporving my code skills and my problem solving ability. My dream is
-- to become a great data engineer and start working in my own ML models and work with cloud tecnologies. I'm learning fundamentals for data engineering and advanced Python
-- programing. In this GitHub i will put my journey to reach my goals and anyone who is willing to help me or learn together is wolcome.
-- 💞️ I’m looking to collaborate on gamming, ML, Algoritms, Math and ML.
+- 👋 I’m Sergio Galarza, a full time data analyst who love technologies and mathematics. I'm working in improving my code skills and my problem solving ability. My dream is
+- to become a great data engineer and start working in my own ML models with cloud tecnologies. I'm learning fundamentals for data engineering and advanced Python
+- programming. In this GitHub i will put my journey to reach my goals and anyone who is willing to help me or learn together is welcome.
+- 💞️ I’m looking to collaborate on gaming, ML, Algorithms, Math and ML.
 - 📫 How to reach me sergiogalarza100@icloud.com
 
 <!---
